@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DaggerExample</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="user">user</string>
+    <string name="save">save</string>
+
+</resources>
