@@ -1,2 +1,2 @@
 
-# A small Android sample demonstrates MVP (Model-View-Presenter) pattern and Dagger2
+# An Android sample to demonstrate MVP (Model-View-Presenter) pattern and Dagger2
